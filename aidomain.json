@@ -2,10 +2,11 @@
   "version": 2,
   "rules": [
     {
-      "domain_suffix": [
+      "domain": [
         "chatgpt.com",
         "google.com"
-      ]
+      ],
+      "domain_suffix": []
     }
   ]
 }
